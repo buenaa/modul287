@@ -33,12 +33,13 @@ h1 {
     max-width: 40em;
     height: auto;
 }
+
 .hr {
     padding-top: 5%;
 }
 .aboutme img {
     width: auto;
-    height: 1000px;
+    height: 900px;
     padding: 5%;
     padding-left: 0;
 }
@@ -101,5 +102,5 @@ footer {
     max-width: 50px;
 }
 footer p {
-    padding-top: 70px;
+    padding-top: 140px;
 }
